@@ -19,19 +19,28 @@ Providing actionable insights for stakeholders to make informed decisions.
 The following libraries were utilized for data processing, analysis, and visualization:
 
 Pandas: Used for data manipulation and analysis.
+
 NumPy: Utilized for numerical computing.
+
 Matplotlib: Employed for creating static visualizations.
+
 Seaborn: Utilized for statistical data visualization.
+
 Plotly: Used for interactive and dynamic visualizations.
 
 # 3. Charts Used
 Various types of charts were generated to visualize the financial data effectively. These include:
 
 Line Charts: Used to illustrate trends over time, such as revenue or expenses.
+
 Bar Charts: Utilized for comparing different categories of financial data, e.g., quarterly profits.
+
 Pie Charts: Employed to show the composition of total values, e.g., distribution of expenses by category.
+
 Scatter Plots: Utilized to explore relationships between variables, such as correlation between revenue and marketing spend.
+
 Heatmaps: Used to visualize correlations or patterns in a matrix format.
+
 Box Plots: Employed for visualizing the distribution of a dataset and detecting outliers.
 
 # 4. Handling Outliers
